@@ -17,3 +17,5 @@ https://nipafx.dev/java-9-migration-guide#
 http://openjdk.java.net/projects/jigsaw/spec/sotms/#layers
 
 https://stackoverflow.com/questions/45283886/using-different-versions-of-dependencies-in-separated-java-platform-modules
+
+https://gorillalogic.com/blog/understanding-java-9-modules/
