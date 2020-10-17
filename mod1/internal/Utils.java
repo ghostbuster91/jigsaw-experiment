@@ -1,7 +1,7 @@
-package p2.internal;
+package internal;
 
 public class Utils {
 	public static int getVersion() {
-		return 2;
+		return 1;
 	}
 }

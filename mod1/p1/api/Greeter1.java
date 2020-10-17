@@ -1,6 +1,6 @@
 package p1.api;
 
-import p1.internal.*;
+import internal.*;
 
 public class Greeter1 {
     public static void greet() {
